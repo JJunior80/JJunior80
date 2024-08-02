@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, sou Jarbas Domingos Cavalcante Júnior</h1>
 <h3 align="center">Brasileiro de 43 anos, originário de Anápolis, Goiás, residente em Brasília, Distrito Federal. Formação em Redes de Computadores, Gestão em Segurança e QA</h3> 
-- 🌱 Atualmente estou aprendendo **Gestão da Tecnologia da Informação pela Anhanguera**
+- 🌱 Atualmente estou aprendendo **CC50 Ciência da Computação de Harvard - Fundação Estudar / Universidade Harvard**
 
 - 💬 Pergunte-me sobre **Teste caixa branca, caixa preta, caixa de areia, teste de fumaça, teste de regressão, teste de integração, teste de sistema**
 
