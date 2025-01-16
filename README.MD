@@ -22,7 +22,7 @@
 ### Últimos Projetos:
 - [ DevLinks é um agregador de links para usar como cartão de visitas online](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/overlay/1727990348468/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)<br/>
 - [Projeto DevConverter um conversor de moedas ](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/796019768/multiple-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4&treasuryMediaId=1729520356892)<br/>
-- [Projeto Portfólio uma Carta de apresentação  🔥](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/1729520042009/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)<br/>
+- [Projeto Portfólio uma Carta de apresentação  🔥](https://jjunior80.github.io/)<br/>
 📫 Como entrar em contato comigo jarbas.junior.cavalcante@gmail.com
 
 </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
