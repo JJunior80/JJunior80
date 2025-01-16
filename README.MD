@@ -17,7 +17,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-💻 Formado em Redes de Computadores, fazendo transição de carreira para o mundo da programação, desenvolvedor júnior e analista QA Júnior. Com mais de 10 anos de experiência, profissional na formação em Redes de Computadores e experiência em tecnologia desde 2005, o foco é buscar conhecimento na área de desenvolvedor back end, front end e full stack, expandindo minha base de conhecimento na programação.
+💻 Sou formado em Redes de Computadores e atuo na área de tecnologia desde 2005, com experiência em infraestrutura e telecomunicações. Retornei ao setor de TI em 2023, focando no desenvolvimento de software e controle de qualidade.
+
+Concluí o bootcamp de Analista de QA pela Tripleten, onde desenvolvi habilidades em automação de testes, testes funcionais e ferramentas como Postman. Atualmente, busco uma oportunidade como Desenvolvedor Júnior ou Analista de QA Júnior, expandindo meus conhecimentos em back-end, front-end e full stack para agregar ainda mais valor às equipes que integrar.
 
 ### Últimos Projetos:
 - [ DevLinks é um agregador de links para usar como cartão de visitas online](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/overlay/1727990348468/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)<br/>
