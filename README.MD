@@ -25,6 +25,6 @@
 - [Projeto Portfólio uma Carta de apresentação  🔥](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/1729520042009/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)<br/>
 📫 Como entrar em contato comigo jarbas.junior.cavalcante@gmail.com
 
-original.svg" alt="ruby" width="40" altura="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+</a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjunior80&show_icons=true&locale=en&layout=compact" alt="jjunior80" /></p>
