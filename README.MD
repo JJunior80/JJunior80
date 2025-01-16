@@ -1,27 +1,30 @@
-<h1 align="center">Olá 👋, sou Jarbas Domingos Cavalcante Júnior</h1>
-<h3 align="center">Brasileiro de 44 anos, originário de Anápolis, Goiás, residente em Brasília, Distrito Federal. Formação em Redes de Computadores, Gestão em Segurança e QA</h3>
-- 🌱 Atualmente estou aprendendo **CC50 Ciência da Computação de Harvard - Fundação Estudar / Universidade Harvard**
+## Olá! Eu sou o Jarbas Domingos Cavalcante Júnior 🖐️
 
-- 💬 Pergunte-me sobre **Teste caixa branca, caixa preta, caixa de areia, teste de fumaça, teste de regressão, teste de integração, teste de sistema**
+[![Blog](https://img.shields.io/website?label=DevLinks&style=for-the-badge&url=https://DevLinks/)](https://jjunior80.github.io/projetodiscover/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jjunior9006)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_j.junior795/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarbas-d-j%C3%BAnior-78b80a36/)
 
-- 📫 Como entrar em contato comigo **<jarbas.junior.cavalcante@gmail.com>**
+## Tecnologias que eu uso no meu dia
 
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/jarbas-d-j%C3%BAnior-78b80a36/](https://www.linkedin.com/in/jarbas-d-j%C3%BAnior-78b80a36/)
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="cemter" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
 
-- ⚡ Curiosidade **Sou atencioso, uma pessoa determinada, focada em aprender para que assim melhore meu desempenho pessoal e profissional, sou pontual e responsável.**
+💻 Formado em Redes de Computadores, fazendo transição de carreira para o mundo da programação, desenvolvedor júnior e analista QA Júnior. Com mais de 10 anos de experiência, profissional na formação em Redes de Computadores e experiência em tecnologia desde 2005, o foco é buscar conhecimento na área de desenvolvedor back end, front end e full stack, expandindo minha base de conhecimento na programação.
 
-– Quem estará nas trincheiras ao teu lado?
-– E isso importa?
-– Mais do que a própria guerra.
+### Últimos Projetos:
+- [ DevLinks é um agregador de links para usar como cartão de visitas online](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/overlay/1727990348468/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)<br/>
+- [Projeto DevConverter um conversor de moedas ](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/796019768/multiple-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4&treasuryMediaId=1729520356892)<br/>
+- [Projeto Portfólio uma Carta de apresentação  🔥](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/1729520042009/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)<br/>
+📫 Como entrar em contato comigo jarbas.junior.cavalcante@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jjunior80&label=Profile%20views&color=0e75b6&style=flat " alt="jjunior80" /> </p>
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jarbas-d-j%C3%BAnior-78b80a36/" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="https://www.linkedin.com/in/jarbas-d-j%C3%BAnior-78b80a36/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" altura="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+original.svg" alt="ruby" width="40" altura="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjunior80&show_icons=true&locale=en&layout=compact" alt="jjunior80" /></p>
