@@ -31,8 +31,10 @@
 
 ## 🔄 Últimos Projetos
 
-- [🔗 DevLinks - agregador de links para cartão de visitas online](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/overlay/1727990348468/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)
-- [💱 DevConverter - conversor de moedas](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/796019768/multiple-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4&treasuryMediaId=1729520356892)
+- [🚀 Santander Dev Week API REST - Spring Boot 3, Java 17 e Railway](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/1741352431101/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)
+- [🎮 Dashboard de Assinaturas do Xbox Game Pass 📊](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/1741351689379/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)
+- [🔗 Projeto do zero: Banco de Dados para Oficina Mecânica](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/1741351305403/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)
+- [💱 Projeto: Banco de Dados para E-commerce](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/overlay/1741350988878/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)
 - [🎨 Portfólio - minha carta de apresentação](https://jjunior80.github.io/)
 
 ---
