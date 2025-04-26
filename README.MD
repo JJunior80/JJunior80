@@ -17,25 +17,50 @@
 
 ## 📚 Sobre mim
 
-💻 Sou formado em Redes de Computadores e atuo na área de tecnologia desde 2005, com experiência em infraestrutura e telecomunicações. Retornei ao setor de TI em 2023, focando no desenvolvimento de software e controle de qualidade.
+💻 Profissional com formação em Redes de Computadores, 20+ anos de experiência em infraestrutura de TI, em transição para o desenvolvimento de software e controle de qualidade. Focado em Front-End Web Development (HTML5, CSS3, JavaScript, React, Angular) e QA (Postman, Selenium), com formação contínua em Python, SQL e Inteligência Artificial. Entusiasta de projetos práticos, aprendizado ágil e inovação tecnológica.
 
-🌟 Concluí o bootcamp de Analista de QA pela Tripleten, onde desenvolvi habilidades em automação de testes, testes funcionais e ferramentas como Postman. Também participei dos bootcamps da DIO, incluindo:
-- Microsoft AI for Tech – Criando Prompts Inteligentes
-- Zuzano Python Developer
-- Heineken – IA aplicada a Dados com Copilot
-- Decola Tech 2025 - Avanade
 
-🚀 Atualmente, busco uma oportunidade como Desenvolvedor Júnior ou Analista de QA Júnior, expandindo meus conhecimentos em back-end, front-end e full stack para agregar ainda mais valor às equipes que integrar.
+🚀 Em 2023, comecei a minha maior transformação profissional.
+(Um desafio e tanto para quem tem mais de 20 anos de carreira em infraestrutura de TI.) Durante uma recuperação de cirurgia na coluna, fui temporariamente realocado para o setor administrativo do almoxarifado.
+E foi nesse momento que nasceu um novo sonho: 
+➡️ Transitar para a área de desenvolvimento web e QA.
 
+Hoje, com 44 anos:
+Estou focado em desenvolvimento Front-End (React, Angular, JavaScript).
+Com experiência prática em testes automatizados (Postman, Selenium).
+Projetos desenvolvidos do zero: portfólio, landing pages, jogos, aplicações web.
+Sou Tecnólogo em Redes de Computadores de formação. Sou Desenvolvedor Júnior por paixão. Sou Analista de QA Júnior em construção.
+
+(E estou só começando.)
+
+Além disso: 
+✅ Aprimorando inglês e habilidades em IA (Microsoft Copilot, Azure Machine Learning). 
+✅ Formação contínua na DIO, Tripleten e Instituto Federal. 
+✅ Compromisso diário em me tornar melhor que ontem.
+
+Se você está buscando alguém:
+
+Resiliente.
+Aprendiz incansável.
+Com bagagem técnica e paixão por inovação.
+
+💻 Meu Objetivo
+
+Busco uma oportunidade como Desenvolvedor Júnior ou Analista de QA Júnior, onde possa aplicar minhas novas competências e continuar evoluindo no universo da programação.
+
+🎓 Formação Acadêmica e Capacitação
+
+Tecnologia em Redes de Computadores – Faculdade Anhanguera de Anápolis (Concluído em 2011).
+Gestão de Segurança – Faculdade Católica de Anápolis (Concluído em 2016).
+Bootcamp de Analista QA – Tripleten (Concluído em 2023).
 ---
 
-## 🔄 Últimos Projetos
+## 🔄 Conecte-se comigo. (Adoraria trocar ideias e construir novas oportunidades!)
 
-- [🚀 Santander Dev Week API REST - Spring Boot 3, Java 17 e Railway](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/1741352431101/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)
-- [🎮 Dashboard de Assinaturas do Xbox Game Pass 📊](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/1741351689379/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)
-- [🔗 Projeto do zero: Banco de Dados para Oficina Mecânica](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/details/projects/1741351305403/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)
-- [💱 Projeto: Banco de Dados para E-commerce](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/overlay/1741350988878/single-media-viewer/?profileId=ACoAAAeYR9sBkmTwAuRxlL-SQSY_X-HDZE-FLw4)
-- [🎨 Portfólio - minha carta de apresentação](https://jjunior80.github.io/)
+🔗 Linkedin: https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/
+🌐 Portfólio: https://jjunior80.github.io/lab-portfolio-jj/
+
+P.S. Qual foi a maior mudança de carreira que você já encarou? Quero saber!
 
 ---
 
