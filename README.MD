@@ -33,7 +33,8 @@ Sou Tecnólogo em Redes de Computadores de formação. Sou Desenvolvedor Júnior
 
 (E estou só começando.)
 
-Além disso: 
+Além disso:
+
 ✅ Aprimorando inglês e habilidades em IA (Microsoft Copilot, Azure Machine Learning).
 
 ✅ Formação contínua na DIO, Tripleten e Instituto Federal.
