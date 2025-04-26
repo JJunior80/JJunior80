@@ -81,8 +81,18 @@ P.S. Qual foi a maior mudança de carreira que você já encarou? Quero saber!
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjunior80&show_icons=true&theme=matrix&include_all_commits=true&count_private=true"/>
+  <img src="https://komarev.com/ghpvc/?username=jjunior80&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjunior80&layout=compact&langs_count=7&theme=matrix"/>
-</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jjunior80&theme=matrix&no-frame=true&row=1&margin-w=15" alt="Trophies" />
+</div>
+
+## 📊 Estatísticas
+
+<div align="center">
+  <a href="https://github.com/jjunior80">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjunior80&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjunior80&layout=compact&langs_count=7&theme=github_dark"/>
+  </a>
+</div>
