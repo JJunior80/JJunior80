@@ -50,14 +50,17 @@ Busco uma oportunidade como Desenvolvedor Júnior ou Analista de QA Júnior, ond
 
 🎓 Formação Acadêmica e Capacitação
 
-Tecnologia em Redes de Computadores – Faculdade Anhanguera de Anápolis (Concluído em 2011).
-Gestão de Segurança – Faculdade Católica de Anápolis (Concluído em 2016).
-Bootcamp de Analista QA – Tripleten (Concluído em 2023).
+✅ Tecnologia em Redes de Computadores – Faculdade Anhanguera de Anápolis (Concluído em 2011).
+
+✅ Gestão de Segurança – Faculdade Católica de Anápolis (Concluído em 2016).
+
+✅ Bootcamp de Analista QA – Tripleten (Concluído em 2023).
 ---
 
 ## 🔄 Conecte-se comigo. (Adoraria trocar ideias e construir novas oportunidades!)
 
 🔗 Linkedin: https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/
+
 🌐 Portfólio: https://jjunior80.github.io/lab-portfolio-jj/
 
 P.S. Qual foi a maior mudança de carreira que você já encarou? Quero saber!
