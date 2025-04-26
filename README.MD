@@ -34,9 +34,12 @@ Sou Tecnólogo em Redes de Computadores de formação. Sou Desenvolvedor Júnior
 (E estou só começando.)
 
 Além disso: 
-✅ Aprimorando inglês e habilidades em IA (Microsoft Copilot, Azure Machine Learning). 
-✅ Formação contínua na DIO, Tripleten e Instituto Federal. 
+✅ Aprimorando inglês e habilidades em IA (Microsoft Copilot, Azure Machine Learning).
+
+✅ Formação contínua na DIO, Tripleten e Instituto Federal.
+
 ✅ Compromisso diário em me tornar melhor que ontem.
+
 
 Se você está buscando alguém:
 
@@ -55,6 +58,7 @@ Busco uma oportunidade como Desenvolvedor Júnior ou Analista de QA Júnior, ond
 ✅ Gestão de Segurança – Faculdade Católica de Anápolis (Concluído em 2016).
 
 ✅ Bootcamp de Analista QA – Tripleten (Concluído em 2023).
+
 ---
 
 ## 🔄 Conecte-se comigo. (Adoraria trocar ideias e construir novas oportunidades!)
