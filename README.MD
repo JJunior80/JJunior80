@@ -96,3 +96,4 @@ P.S. Qual foi a maior mudança de carreira que você já encarou? Quero saber!
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjunior80&layout=compact&langs_count=7&theme=github_dark"/>
   </a>
 </div>
+
