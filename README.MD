@@ -19,7 +19,6 @@
 
 </div>
 
----
 
 ## 💡 Sobre Mim
 
@@ -49,3 +48,4 @@ const devJunior = {
   meta_salarial: "Crescimento consistente a partir de R$ 3.000",
   disponibilidade: "Imediata"
 };
+
