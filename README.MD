@@ -1,21 +1,20 @@
-<!-- Banner com animação -->
 <div align="center">
 
-# 🚀 Jarbas Domingos Cavalcante Júnior  
+# 🚀 **Jarbas Domingos Cavalcante Júnior**  
 ### Desenvolvedor Front-End | Analista de QA Júnior  
-### Em Transição de Carreira — 20+ anos em Infraestrutura
+### Em Transição — 20+ anos em Infraestrutura Crítica
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Experiência+em+Infraestrutura+Crítica;Construindo+Soluções+com+Qualidade;Front-End+%7C+QA+%7C+Automação;Aprendizado+Contínuo+%7C+TDD+%7C+.NET" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=2E97F7&center=true&vCenter=true&width=650&lines=Desenvolvedor+Front-End;Analista+de+QA+Júnior;20%2B+anos+em+Infraestrutura;Testes+de+API+%7C+Automação+%7C+TDD;Aprendizado+Contínuo+%7C+Evolução+Constante" />
 
-📍 Brasília – DF • 🌎 Remoto / Híbrido / Presencial  
-💼 Buscando oportunidade como **QA Júnior** ou **Dev Front-End Júnior**
+📍 **Brasília – DF**  
+🌎 **Remoto • Híbrido • Presencial**  
+🎯 **Buscando oportunidade como QA Júnior / Dev Front-End Júnior**
 
 <br>
 
-<!-- Botões de redes -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-júnior-78b80a36/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JJunior80)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jjunior80.github.io/lab-portfolio-jj/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://jjunior80.github.io/lab-portfolio-jj/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jarbas.junior.cavalcante@gmail.com)
 
 <br>
@@ -28,21 +27,22 @@
 
 # 💡 Sobre Mim
 
-Profissional de TI com **mais de 20 anos em infraestrutura crítica**, hoje em plena transição para **Desenvolvimento Web** e **Qualidade de Software (QA)**.
+Sou um profissional com **20+ anos de experiência em infraestrutura crítica**, redes, continuidade operacional e ambientes que **não podem parar**.  
+Em 2023, após uma reviravolta pessoal, decidi transformar toda essa bagagem em uma nova direção:
 
-Minha virada de chave veio após um período de recuperação de saúde em 2023 — um recomeço que me trouxe clareza:  
-👉 **Eu queria construir, testar, aprimorar e gerar impacto real através de software.**
+👉 **Qualidade de Software (QA)** e 👉 **Desenvolvimento Web (Front-End)**.
 
-Hoje atuo em:
+Hoje combino minha visão analítica, disciplina e experiência sólida com habilidades modernas:
 
-- Desenvolvimento Front-End (React, Angular, JavaScript)  
-- Testes de API e automação com Postman & Selenium  
-- TDD, testes unitários e boas práticas de qualidade  
-- Python & .NET para back-end e automação  
-- Uso de Inteligência Artificial aplicada ao desenvolvimento diário  
+- Testes funcionais, exploratórios e automatizados  
+- Testes de API (Postman)  
+- Automação com Selenium  
+- Desenvolvimento Web: React, Angular, JavaScript  
+- Python e .NET para automação e back-end  
+- Metodologias Ágeis e Engenharia de Prompts  
+- Mentalidade de melhoria contínua e código limpo  
 
-> **Tradição e inovação caminham lado a lado.**  
-> Minha missão: unir minha experiência sólida com minha nova paixão pela tecnologia moderna.
+> **“Tradição e inovação se encontram quando experiência vira propósito.”**
 
 ---
 
@@ -50,78 +50,90 @@ Hoje atuo em:
 
 <div align="center">
 
-<!-- SKILLS ICONS -->
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,python,dotnet,java,spring,mysql,sqlite,postman,selenium,git,github" />
 
 </div>
 
-### 🧪 **QA & Testes**
-- Testes de API com **Postman**
-- Automação com **Selenium**
-- Testes Manuais e Funcionais
-- TDD / Testes Unitários (xUnit, JUnit)
-- Noções de CI/CD
+### 🧪 **Qualidade de Software**
+- Testes Manuais, Funcionais e Exploratorios  
+- Testes de API (Postman — Collections, Environments, Scripts)  
+- Automação com Selenium (WebDriver)  
+- Testes Unitários (xUnit, NUnit, JUnit, Mockito)  
+- TDD e refatoração  
+- Documentação, Bug Reports, Priorização & Severidade  
 
 ### 💻 **Desenvolvimento**
-- **Front-End**: HTML5, CSS3, JavaScript, React, Angular  
-- **Back-End**: Node.js, Python, .NET  
-- **Bancos**: MySQL, SQLite  
-- **Ferramentas**: Git, GitHub, VSCode
+- HTML5, CSS3, JavaScript, TypeScript  
+- React e Angular (bases práticas)  
+- Node.js e Python  
+- SQL / MySQL / SQLite  
+- CI/CD (noções)  
+- Git e GitHub (branching, versionamento e colaboração)
+
+### 🧠 **IA Aplicada ao Desenvolvimento**
+- GitHub Copilot  
+- Microsoft Copilot Studio  
+- Engenharia de Prompts  
+- Azure AI (conceitos)
 
 ---
 
 # 🚀 Projetos em Destaque
 
-### 🧪 **QA & Automação**
-🔗 **API de Posts (Node.js + TypeScript + Testes de Integração)**  
-https://github.com/JJunior80/API_projeto_QA_twidio_savePost  
+### 🧪 **QA & Testes Automatizados**
 
-🔗 **Beer API — Testes Unitários com JUnit/Mockito**  
+🔹 **API de Posts – Testes de Integração (Node.js + TypeScript)**  
+https://github.com/JJunior80/API_projeto_QA_twidio_savePost  
+*Jest + Supertest, TypeORM, SQLite, arquitetura em camadas e isolamento de ambiente.*
+
+🔹 **Beer API – Testes Unitários (Java + Spring Boot)**  
 https://github.com/JJunior80/projetoQA_Dio_beer_api_digital_API_JAVA  
+*TDD, JUnit, Mockito, validações de estoque, simulação de cenários críticos.*
 
 ---
 
-### 💻 **Desenvolvimento**
-🔗 **Portfólio Web (HTML/CSS/JS)**  
-https://jjunior80.github.io/lab-portfolio-jj/  
+### 💻 **Desenvolvimento Front-End & Back-End**
 
-🔗 **Sistema Bancário em Python (POO)**  
-https://github.com/JJunior80/sistema-bancario-python  
+🔹 **Portfólio Web — HTML/CSS/JS**  
+https://jjunior80.github.io/lab-portfolio-jj/
 
-🔗 **SPA Blog — Angular 17**  
-https://github.com/JJunior80/blog-angular17  
+🔹 **Sistema Bancário — Python (POO)**  
+https://github.com/JJunior80/sistema-bancario-python
+
+🔹 **Blog SPA — Angular 17**  
+https://github.com/JJunior80/blog-angular17
 
 ---
 
 # 🎯 Objetivo Profissional
 
-Busco minha **primeira oportunidade formal** como:
+Procuro minha **primeira oportunidade formal** como:
 
 - **Analista de QA Júnior**  
 - **Desenvolvedor Front-End Júnior**  
 
 O que entrego:
 
-- ✔ Visão de confiabilidade adquirida em infra crítica  
-- ✔ Conhecimento prático em testes, APIs e automação  
-- ✔ Código organizado, testado e documentado  
-- ✔ Aprendizado rápido (transição sólida em 18 meses)  
-- ✔ Disponibilidade imediata  
+✔ Experiência real em ambientes críticos  
+✔ Visão sistêmica, análise de falhas e confiabilidade  
+✔ Conhecimento prático em testes, automação e web  
+✔ Organização, disciplina e documentação  
+✔ Aprendizado acelerado e disponibilidade imediata
 
 ---
 
 # 🎓 Formação & Certificações
 
-🎓 **Tecnologia em Redes de Computadores** – Anhanguera  
-🎓 **Gestão de Segurança** – Católica de Anápolis  
+🎓 **Tecnologia em Redes de Computadores** — Anhanguera  
+🎓 **Gestão de Segurança Pública e Privada** — Católica de Anápolis  
 
-📘 **Bootcamp Analista de QA – TripleTen**  
+📘 **Bootcamp Analista de QA – TripleTen (2023)**  
 📘 **QA Experience – DIO (Cursando)**  
 📘 **React Developer – DIO**  
-📘 **Santander Front-End (10 projetos HTML/CSS/JS)**  
+📘 **Santander Front-End – DIO (10 projetos)**  
 📘 **Scrum Master Certification – DIO**  
-📘 **Python Backend Developer – DIO (Cursando)**  
-📘 **Microsoft – Prompts Inteligentes**  
+📘 **Python Back-End Developer – DIO (Cursando)**  
+📘 **Microsoft AI – Prompts Inteligentes**
 
 ---
 
@@ -129,7 +141,6 @@ O que entrego:
 
 <div align="center">
 
-<!-- Stats corrigidos -->
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JJunior80&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JJunior80&layout=compact&theme=tokyonight&hide_border=true" />
@@ -142,9 +153,8 @@ O que entrego:
 
 # 📬 Contato
 
-📧 **Email:** jarbas.junior.cavalcante@gmail.com  
-📱 **Telefone:** (61) 99563-2099  
+📧 **jarbas.junior.cavalcante@gmail.com**  
+📱 **(61) 99563-2099**  
 
-💬 *Aberto para conversas, networking e oportunidades. Vamos construir algo incrível juntos!*
-
+💬 *Aberto para networking, desafios e oportunidades para crescer e contribuir!*
 
