@@ -1,98 +1,117 @@
 # 🚀 Jarbas Domingos Cavalcante Júnior  
-### Desenvolvedor Front-End | Analista de QA Júnior | Em transição de carreira
+### Desenvolvedor Front-End | Analista de QA Júnior | Em Transição de Carreira
 
 💡 **20+ anos em Infraestrutura de TI**  
 💻 **Apaixonado por Desenvolvimento Web e Qualidade de Software**  
-📍 Brasil | 🌎 Aberto a oportunidades
+📍 Brasília – DF | 🌎 Aberto a oportunidades remotas/híbridas/presenciais
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://jjunior80.github.io/lab-portfolio-jj/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarbas-d-j%C3%BAnior-78b80a36/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_j.junior795/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-j%C3%BAnior-78b80a36/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JJunior80)  
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://jjunior80.github.io/lab-portfolio-jj/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_j.junior795/)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jjunior9006)
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou profissional de TI com **mais de 20 anos de experiência em infraestrutura**, formado em **Redes de Computadores**, que decidiu encarar um grande desafio:  
-➡️ **Migrar para Desenvolvimento de Software e Qualidade (QA).**
+Profissional de TI com **mais de 20 anos de experiência em infraestrutura crítica e operações**, formado em **Redes de Computadores**. Em 2023, durante recuperação de cirurgia na coluna, decidi migrar para **Desenvolvimento de Software e Qualidade (QA)** — um recomeço aos 44 anos, movido por paixão e necessidade de evolução.
 
-Em 2023, durante a recuperação de uma cirurgia na coluna, vivi um momento de reflexão que mudou minha trajetória profissional.  
-Foi ali que nasceu o compromisso de **recomeçar, aprender e evoluir** — agora no universo do **Front-End e QA**.
+Hoje foco em:
+- Desenvolvimento Front-End moderno (React, Angular, JavaScript)  
+- Testes manuais e automatizados (Postman, Selenium)  
+- Automação e integração de sistemas  
+- Estudo contínuo em Python, SQL e IA aplicada  
 
-Hoje, aos **44 anos**, sigo com a mesma energia do primeiro dia:
-- Desenvolvendo aplicações web modernas  
-- Criando projetos do zero  
-- Automatizando testes  
-- Aprendendo algo novo todos os dias  
-
-> **Sou Desenvolvedor Júnior por paixão.**  
-> **Sou Analista de QA Júnior em construção.**  
-> **(E estou só começando.)**
+> **Tradição e futuro se encontram aqui.**  
+> **Experiência sólida + aprendizado novo = valor real.**
 
 ---
 
 ## 💻 Tecnologias & Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,python,spring,mysql,maven" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,python,spring,mysql,postman,selenium,git" />
 </div>
 
 ### 🧪 QA & Testes
-- Postman (API Testing)
-- Selenium (Automação)
-- Testes Manuais e Funcionais
-- Noções de CI/CD
+- Postman (Testes de API)  
+- Selenium (Automação Web)  
+- Testes Manuais e Funcionais  
+- Noções de CI/CD e Metodologias Ágeis (Scrum)
+
+### 🔧 Desenvolvimento
+- Front-End: HTML5, CSS3, JavaScript, React, Angular  
+- Back-End: Node.js, Python, SQL/MySQL  
+- Ferramentas: Git, GitHub, VS Code
 
 ---
 
-## 🚀 O que eu faço hoje
+## 🚀 Projetos em Destaque
 
-✔️ Desenvolvimento Front-End com **React, Angular e JavaScript**  
-✔️ Criação de **landing pages, portfólios, jogos e apps web**  
-✔️ Testes manuais e automatizados  
-✔️ Versionamento com Git & GitHub  
-✔️ Estudo contínuo em **Python, SQL e IA**
+Aqui estão meus projetos principais — clique para ver detalhes e código:
+
+### 🧪 QA & Testes
+- [**API de Posts (Node.js/TypeScript)**](https://github.com/JJunior80/API_projeto_QA_twidio_savePost)  
+  API REST com testes de integração (Jest/Supertest), TypeORM + SQLite. Foco em validação de endpoints e arquitetura limpa.
+
+- [**Testes Unitários em API de Cerveja (Java/Spring)**](https://github.com/JJunior80/projetoQA_Dio_beer_api_digital_API_JAVA)  
+  Testes unitários com JUnit/Mockito, TDD aplicado. Validação de funcionalidades críticas de estoque.
+
+### 💻 Desenvolvimento Front-End
+- [**Portfólio Web**](https://jjunior80.github.io/lab-portfolio-jj/)  
+  Landing page responsiva com HTML/CSS/JS, projetos interativos e design moderno.
+
+- [**Sistema Bancário em Python**](https://github.com/JJunior80/sistema-bancario-python)  
+  Aplicação console com POO, validações e lógica de negócio.
+
+- [**Blog em Angular 17**](https://github.com/JJunior80/blog-angular17)  
+  SPA com componentes dinâmicos e roteamento.
+
+> **Projetos práticos de cursos (DIO, Santander, TripleTen) — aplicados e documentados.**
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Busco uma oportunidade como:
-
+Busco minha **primeira oportunidade formal** como:
 - **Desenvolvedor Front-End Júnior**  
-- **Analista de QA Júnior**
+- **Analista de QA Júnior**  
 
-Onde eu possa:
-- Aplicar minhas novas competências  
+Onde possa:
+- Aplicar competências em testes e desenvolvimento  
 - Aprender com times experientes  
-- Contribuir com qualidade, responsabilidade e dedicação  
+- Contribuir com qualidade, responsabilidade e visão analítica  
+
+**Perfil ideal:** Empresas que valorizam experiência em infra/TI crítica + transição sólida com projetos recentes.
 
 ---
 
 ## 🎓 Formação & Capacitação
 
 ✅ **Tecnologia em Redes de Computadores**  
-Faculdade Anhanguera de Anápolis — *2011*
+Faculdade Anhanguera — 2011
 
-✅ **Gestão de Segurança**  
-Faculdade Católica de Anápolis — *2016*
+✅ **Gestão de Segurança Pública e Privada**  
+Faculdade Católica de Anápolis — 2016
 
 ✅ **Bootcamp Analista de QA**  
-Tripleten — *2023*
+TripleTen — 2023
 
-📚 Formação contínua:
-- DIO  
-- Instituto Federal  
-- Tripleten  
+📚 **Cursos Recentes (últimos 18 meses)**:
+- Formação Quality Assurance (QA) Experience — DIO (Cursando)  
+- Formação React Developer — DIO (Concluído)  
+- Santander 2025 - Front-End (HTML/CSS/JS + 10 projetos) — Santander (Concluído)  
+- Formação Scrum Master Certification — DIO (Concluído)  
+- Formação Python Backend Developer — DIO (Cursando)  
+- Microsoft 50 Anos - Prompts Inteligentes — Microsoft (Concluído)  
+- GFT Start #6 - Lógica de Programação — GFT (Concluído)
 
-🌍 Aprimorando:
-- Inglês técnico  
-- Inteligência Artificial (Copilot, Azure ML)
+🌍 **Em aprimoramento**: Inglês técnico e IA (Copilot, Azure AI).
 
 ---
 
@@ -116,10 +135,9 @@ Tripleten — *2023*
 ## 📬 Contato
 
 💌 **Email:** jarbas.junior.cavalcante@gmail.com  
+📞 **Telefone:** (61) 99563-2099  
 
-💬 *Vamos trocar ideias, aprender juntos e construir algo incrível.*
+💬 *Vamos conversar sobre oportunidades, projetos ou aprendizado mútuo. Estou pronto para contribuir e crescer.*
 
-> **Pergunta final:**  
-👉 Qual foi a maior mudança de carreira que você já encarou?
-
-
+> **Tradição ensina: quem planta hoje, colhe amanhã.**  
+> **Vamos plantar juntos?** 👉 Qual foi a maior mudança de carreira que você já encarou?
